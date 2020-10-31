@@ -1,0 +1,14 @@
+x=msgbox("Windows Update Error 0x80070057", 5+16, "WARNING")
+x=msgbox("YOUR SYSTEM NEED RESTART", 0+48, "WARNING")
+x=msgbox("PAGE_FAULT_IN_NONPAGED_AREA", 2+64, "WARNING")
+x=msgbox("Boot Sequence Initialization Failed", 4+32, "WARNING")
+x=msgbox("Windows Update Error 0x80070057", 5+16, "WARNING")
+x=msgbox("YOUR SYSTEM NEED RESTART", 0+48, "WARNING")
+x=msgbox("PAGE_FAULT_IN_NONPAGED_AREA", 2+64, "WARNING")
+x=msgbox("Boot Sequence Initialization Failed", 4+32, "WARNING")
+x=msgbox("Windows Update Error 0x80070057", 5+16, "WARNING")
+x=msgbox("YOUR SYSTEM NEED RESTART", 0+48, "WARNING")
+x=msgbox("PAGE_FAULT_IN_NONPAGED_AREA", 2+64, "WARNING")
+x=msgbox("Boot Sequence Initialization Failed", 4+32, "WARNING")
+
+
